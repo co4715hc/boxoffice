@@ -1,5 +1,5 @@
 * IMDB
-  * Basics - main movie details: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/wikipedia.csv
+  * Basics - main movie details: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/imdb_basics.csv
   * Crew - director/writers: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/imdb_crew.csv
   * Principals - actors/crew: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/imdb_principals.csv
   * Names - details about crew/principals: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/imdb_names.csv
