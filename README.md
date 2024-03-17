@@ -16,4 +16,4 @@
 * Others
   * Wikipedia - plot summaries: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/wikipedia.csv
   * FilmTV.it - misc movie details: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/filmtv.csv
-  * TMDB - misc movie details:
+  * TMDB - misc movie details: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/tmdb.csv
