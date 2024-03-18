@@ -1,3 +1,6 @@
+Dataset with several combined features from IMDB and TMDB: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/database_a.csv
+
+Source Databases:
 * IMDB
   * Basics - main movie details: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/imdb_basics.csv
   * Crew - director/writers: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/imdb_crew.csv
