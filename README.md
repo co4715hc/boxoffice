@@ -1,5 +1,8 @@
 Dataset with several combined features from IMDB and TMDB: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/database_a.csv
 
+https://colab.research.google.com/drive/15g_wOrV0S18z8o5682Mm_gBe1VUvwaCV?usp=sharing
+https://colab.research.google.com/drive/1oQjHFNk27xG-Ik6SoJm_v2UE2OTRsFtG?usp=sharing
+
 Source Databases:
 * IMDB
   * Basics - main movie details: https://media.githubusercontent.com/media/co4715hc/boxoffice/main/imdb_basics.csv
